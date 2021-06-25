@@ -2,6 +2,8 @@
 
 [Go to GitHub](https://github.com/BUGHERE/BUGHERE.github.io/edit/main/index.md)
 
+[find more](https://github.com/BUGHERE/BUGHERE.github.io/edit/main/new)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## To-do list
